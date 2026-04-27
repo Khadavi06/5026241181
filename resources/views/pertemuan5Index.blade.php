@@ -15,8 +15,8 @@
     <center>
         <h1>M.Khadavi Khalid</h1>
         <h1>5026241181</h1>
-        <p><a href="/pertemuan5" target="_blank"><button class="btn btn-primary">Pertemuan 5</button></a></p>
-        <p><a href="/TugasLinktreePt5" target="_blank"><button class="btn btn-primary">Tugas Link Tree</button></a></p>
+        <p><a href="/pt5.1" target="_blank"><button class="btn btn-primary">Pertemuan 5</button></a></p>
+        <p><a href="/tg5" target="_blank"><button class="btn btn-primary">Tugas Link Tree</button></a></p>
         <p><a href="" target="_blank"></a><button class="btn btn-primary">Tugas Make Over IG</button></a></p>
         <p><a href="" target="_blank"></a><button class="btn btn-primary">UTS</button></a></p>
 
